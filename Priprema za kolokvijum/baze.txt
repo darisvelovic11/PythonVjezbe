@@ -1,0 +1,3 @@
+ime_prezime,indeks,bodovi_kolokvij1,bodovi_kolokvij2,bodovi_zavrsni
+Ana Kovačević,19-001,22,18,35
+Marko Perović,19-002,15,0,28

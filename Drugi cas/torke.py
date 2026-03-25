@@ -1,0 +1,1 @@
+torke = ("Marko",5)

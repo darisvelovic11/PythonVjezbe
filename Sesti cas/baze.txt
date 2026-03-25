@@ -1,0 +1,4 @@
+ime_prezime,indeks,bodovi_kol1,bodovi_kol2,bodovi_zavrsni
+Marko Markovic,21-045,20,20,40
+Nemanja Nikolic,21-035,10,30,40
+Borislav Zivoinonic,21-015,15,15,40

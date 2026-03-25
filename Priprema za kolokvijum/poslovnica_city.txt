@@ -1,0 +1,3 @@
+prozivod,id_proizvoda,cijena,kolicina,popust
+Laptop,L101,1000,5,10
+Mis,M202,20,50,0

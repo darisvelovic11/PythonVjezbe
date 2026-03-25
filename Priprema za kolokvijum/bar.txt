@@ -1,0 +1,4 @@
+proizvod,kategorija,prodato_komada,cijena_po_komadu,popust_procenat
+Laptop,Elektronika,10,500,10
+Telefon,Elektronika,15,300,5
+Kompjuter,Elektronika,5,1000,10
