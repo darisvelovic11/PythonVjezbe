@@ -31,5 +31,5 @@ cls1.add_student("Marko", 82)
 print(len(cls1))              # 3
 print(cls1)                   # Mr. Smith's class: 3 students, average grade: 88.33
 print("Daris" in cls1)        # True
-print("Boris" in cls1)        # False
+print("Mirsad" in cls1)        # False
 print(cls1[0])                # Daris
